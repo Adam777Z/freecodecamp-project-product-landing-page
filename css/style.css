@@ -17,7 +17,7 @@ body {
 	}
 }
 
-#features svg.bi {
-	width: 48px;
-	height: auto;
+#features i.bi {
+	display: inline-flex;
+	font-size: 48px;
 }
